@@ -1,32 +1,11 @@
 # ttt
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Evaluates for the winner of a tic-tac-toe board. Winner may be :x, :o,
+:tie or nil. Nil means the game is incomplete or invalid.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar ttt-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Use "lein run" to see the test cases execute.
 
 ## License
 
